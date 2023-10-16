@@ -12,7 +12,7 @@ Title, icons, links, colors, and services can be configured in the `config.yml` 
 # externalConfig: https://example.com/server-luci/config.yaml
 
 title: "App dashboard"
-subtitle: "Homer"
+subtitle: "Inguraidhoo School"
 # documentTitle: "Welcome" # Customize the browser tab text
 logo: "assets/logo.png"
 # Alternatively a fa icon can be provided:
